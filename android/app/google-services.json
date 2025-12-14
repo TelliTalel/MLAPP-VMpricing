@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "706392251844",
+    "project_id": "mlmlml-cdda8",
+    "storage_bucket": "mlmlml-cdda8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706392251844:android:97db6e211c3e55ea3e1891",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBa9gB_xcrlNxsZEuyEkYRsc59ZoF7QeF0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
